@@ -201,8 +201,8 @@ if __name__ == '__main__':
 
     evaluar_modelo_general(
         model,
-        "C:/Users/GUSTAVO/Desktop/Nueva carpeta (9)/valid/images",
-        "C:/Users/GUSTAVO/Desktop/Nueva carpeta (9)/valid/labels"
+        "data/valid/images",
+        "data/valid/labels"
     )
 
     root = Tk()
