@@ -1,4 +1,4 @@
-# ppe-detection-yolov8
+PPE Detection System — YOLOv8
 
 Computer vision system for real-time verification of Personal Protective Equipment (PPE) usage in industrial environments.
 
